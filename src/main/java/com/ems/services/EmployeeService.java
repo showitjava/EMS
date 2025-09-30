@@ -24,6 +24,9 @@ public class EmployeeService {
 //		list.add(new Employee(1,"Kishan","Patel","kk@gmail.com","IT"));
 //		list.add(new Employee(1,"Abc","Patel","abc@gmail.com","IT"));
 //		list.add(new Employee(1,"xyz","Patel","xyz@gmail.com","IT"));
+//		list.add(new Employee(1,"Kishan","Patel","kk@gmail.com","IT"));
+//		list.add(new Employee(1,"Abc","Patel","abc@gmail.com","IT"));
+//		list.add(new Employee(1,"xyz","Patel","xyz@gmail.com","IT"));
 		
 		list =repo.findAll();
 		
