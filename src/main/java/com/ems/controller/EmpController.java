@@ -30,7 +30,7 @@ public class EmpController {
 	@GetMapping("/hello")
 	public String sayhello()
 	{
-		return "Hello";
+		return "Hello from Employee";
 	}
 	
 	// Get all the employee list
